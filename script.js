@@ -98,7 +98,7 @@ const hangmanParts = document.querySelectorAll(".hangman-part");
 
 // main function that initialises the game
 function gamePlay() {
-  // Show the "Game On" message
+  // Show the "Game On" message .
   const gameOnMessage = document.getElementById("game-on-message");
   gameOnMessage.style.display = "block";
 
